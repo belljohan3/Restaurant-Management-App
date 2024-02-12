@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "3bb9",
+      "name": "Johan Bell",
+      "email": "belljohan3@gmail.com",
+      "password": "Nlonako@0197"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": "00237693402129",
+      "address": "Ange Raphael"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": "002376934021",
+      "address": "Bastos"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": "0023769340",
+      "address": "Durban"
+    },
+    {
+      "id": "b8cd",
+      "name": "Chez le Mater",
+      "contact": "000000000",
+      "address": "Stade CICAM"
+    },
+    {
+      "id": "4f3a",
+      "name": "admin",
+      "contact": "vP1#9Pq%OmrnC!2quW",
+      "address": ""
+    },
+    {
+      "id": "8c48",
+      "name": "Fast Food",
+      "contact": "23456789",
+      "address": "Santa Lucia"
+    }
+  ]
+}
